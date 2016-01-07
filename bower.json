@@ -1,0 +1,16 @@
+{
+  "name": "MyUnderscore",
+  "version": "0.0.1",
+  "authors": [
+    "Prasanna Kapate <prasanna.1616@gmail.com>"
+  ],
+  "description": "My owen written underscore library",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
